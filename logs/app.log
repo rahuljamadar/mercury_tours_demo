@@ -1,0 +1,75 @@
+2024-38-19 15:38:01.254 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-38-19 15:38:05.823 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-38-19 15:38:27.835 [main] INFO  com.mercurytours.base.BaseTest - Enter username
+2024-38-19 15:38:28.576 [main] INFO  com.mercurytours.base.BaseTest - Enter password
+2024-38-19 15:38:34.151 [main] INFO  com.mercurytours.base.BaseTest - Verified login successful title
+2024-38-19 15:38:44.361 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-38-19 15:38:47.077 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-39-19 15:39:00.156 [main] INFO  com.mercurytours.base.BaseTest - Verified logo is displayed
+2024-39-19 15:39:04.120 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-39-19 15:39:05.610 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-39-19 15:39:22.711 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-39-19 15:39:23.729 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-39-19 15:39:47.314 [main] INFO  com.mercurytours.base.BaseTest - Verified click on flight info
+2024-39-19 15:39:49.806 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-39-19 15:39:51.466 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-40-19 15:40:08.302 [main] INFO  com.mercurytours.base.BaseTest - Verified click on back to home page button
+2024-40-19 15:40:11.591 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-40-19 15:40:13.347 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-40-19 15:40:28.543 [main] INFO  com.mercurytours.base.BaseTest - Verified click on hotel page
+2024-40-19 15:40:32.368 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-40-19 15:40:33.941 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-40-19 15:40:50.246 [main] INFO  com.mercurytours.base.BaseTest - Click on back to homepage button
+2024-40-19 15:40:53.868 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-40-19 15:40:55.533 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-41-19 15:41:09.917 [main] INFO  com.mercurytours.base.BaseTest - click on car rental link
+2024-31-20 09:31:48.166 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-31-20 09:31:52.453 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-32-20 09:32:29.067 [main] INFO  com.mercurytours.base.BaseTest - Enter username
+2024-32-20 09:32:32.216 [main] INFO  com.mercurytours.base.BaseTest - Enter password
+2024-32-20 09:32:38.178 [main] INFO  com.mercurytours.base.BaseTest - Verified login successful title
+2024-32-20 09:32:46.412 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-32-20 09:32:48.667 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-33-20 09:33:06.505 [main] INFO  com.mercurytours.base.BaseTest - Verified logo is displayed
+2024-33-20 09:33:10.474 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-33-20 09:33:12.201 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-33-20 09:33:36.123 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-33-20 09:33:38.031 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-34-20 09:34:05.586 [main] INFO  com.mercurytours.base.BaseTest - Verified click on flight info
+2024-34-20 09:34:08.593 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-34-20 09:34:10.128 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-34-20 09:34:24.909 [main] INFO  com.mercurytours.base.BaseTest - Verified click on back to home page button
+2024-34-20 09:34:28.737 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-34-20 09:34:30.470 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-34-20 09:34:55.342 [main] INFO  com.mercurytours.base.BaseTest - Verified click on hotel page
+2024-35-20 09:35:00.215 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-35-20 09:35:01.926 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-35-20 09:35:19.441 [main] INFO  com.mercurytours.base.BaseTest - Click on back to homepage button
+2024-35-20 09:35:23.428 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-35-20 09:35:25.007 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-35-20 09:35:41.109 [main] INFO  com.mercurytours.base.BaseTest - click on car rental link
+2024-41-20 09:41:37.054 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-41-20 09:41:40.731 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-41-20 09:41:58.162 [main] INFO  com.mercurytours.base.BaseTest - Enter username
+2024-41-20 09:41:59.543 [main] INFO  com.mercurytours.base.BaseTest - Enter password
+2024-42-20 09:42:04.135 [main] INFO  com.mercurytours.base.BaseTest - Verified login successful title
+2024-42-20 09:42:07.629 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-42-20 09:42:09.275 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-42-20 09:42:25.081 [main] INFO  com.mercurytours.base.BaseTest - Verified logo is displayed
+2024-42-20 09:42:29.143 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-42-20 09:42:30.650 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-42-20 09:42:49.954 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-42-20 09:42:51.523 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-43-20 09:43:17.537 [main] INFO  com.mercurytours.base.BaseTest - Verified click on flight info
+2024-43-20 09:43:19.987 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-43-20 09:43:21.422 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-43-20 09:43:36.450 [main] INFO  com.mercurytours.base.BaseTest - Verified click on back to home page button
+2024-43-20 09:43:40.642 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-43-20 09:43:42.209 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-43-20 09:43:56.693 [main] INFO  com.mercurytours.base.BaseTest - Verified click on hotel page
+2024-44-20 09:44:01.419 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-44-20 09:44:02.932 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-44-20 09:44:16.287 [main] INFO  com.mercurytours.base.BaseTest - Click on back to homepage button
+2024-44-20 09:44:19.406 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching Application -----
+2024-44-20 09:44:20.369 [main] INFO  com.mercurytours.base.BaseTest - ----- Launching: firefox-----
+2024-44-20 09:44:35.151 [main] INFO  com.mercurytours.base.BaseTest - click on car rental link

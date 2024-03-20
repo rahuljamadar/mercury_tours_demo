@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Smoke_Test">
+    <classes>
+      <class name="com.mercurytours.testcases.SignOnTest"/>
+      <class name="com.mercurytours.testcases.FlightTest"/>
+      <class name="com.mercurytours.testcases.HotelPageTest"/>
+            <class name="com.mercurytours.testcases.Car_RentalTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
